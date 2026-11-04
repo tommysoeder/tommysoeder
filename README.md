@@ -65,7 +65,7 @@ KamikApp is a developed prototype for local evaluation. It is **not deployed and
 ## Contact
 
 - **GitHub:** [github.com/tommysoeder](https://github.com/tommysoeder)
-- **LinkedIn:** [_Add professional LinkedIn URL_](https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADn-soeder-928886263/)
+- **LinkedIn:** [(https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADn-soeder-928886263/)]
 - **Email:** soeder9087@gmail.com
 
 <sub>This profile README was prepared with AI assistance and reviewed against the linked repositories. The assistance applies to the profile documentation and does not imply authorship of the projects.</sub>
